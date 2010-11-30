@@ -4,6 +4,7 @@
 
 ;; Author: Edward O'Connor <ted@oconnor.cx>
 ;; Keywords: convenience
+;; Version: 1.0.0
 
 ;; This file is free software; you can redistribute it and/or
 ;; modify it under the terms of version 2 of the GNU General
